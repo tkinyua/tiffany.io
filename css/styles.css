@@ -1,0 +1,40 @@
+body{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.bg-1{
+	background-color: powderblue;
+}
+
+.bg-2{
+	background-color: white;
+	color: brown;
+}
+
+.bg-3{
+	background-color: powderblue;
+	color: rgb(white);
+}
+
+.bg-4{
+	background-color: white;
+	color: skyblue;
+}
+.bg-6{
+	background-color: black;
+	color: white;
+	height: 40px !important;
+	width: 100%;
+}
+.container-fluid{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.bg-5{
+	background-color: black;
+	color: white;
+	height: 145px !important;
+	width: 100%;
+}
+
+
